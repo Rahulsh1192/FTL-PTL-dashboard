@@ -5,7 +5,7 @@ import { CustomDateInput } from './components/CustomComponent/CustomDateInput';
 import { Dashboard } from './components/dashboard/dashboard';
 
 function App() {
-console.log("on master branch");
+
   return (
     <Dashboard/>
     // <CustomAutoComplete/>
